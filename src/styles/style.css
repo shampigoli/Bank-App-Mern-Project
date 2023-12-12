@@ -1,0 +1,31 @@
+ .sidebar{
+    background-color: #2e3200;
+    border-radius:0  10px 10px 0;
+    box-shadow: 0 0 2px gray;
+    color: white;
+    -webkit-border-radius:0  10px 10px 0;
+    -moz-border-radius:0  10px 10px 0;
+    -ms-border-radius:0  10px 10px 0;
+    -o-border-radius:0  10px 10px 0;
+    /* height: 20vh !important; */
+}
+.menu{
+    padding-top: 100px;
+}
+.menu-item{
+    padding-top: 30px;
+}
+.menu-item i{
+    font-size: 1.2rem;
+    margin: 0 15px;
+    color: white;
+}
+.active{
+    background-color: white;
+    padding: 10px;
+    color: #2e3200;
+    margin-top: 15px;
+}
+.active i{
+    color: #2e3200;
+}

@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .form-banner img{
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+  }
+  

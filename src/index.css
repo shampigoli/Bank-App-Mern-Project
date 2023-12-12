@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.form-banner{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.from-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
